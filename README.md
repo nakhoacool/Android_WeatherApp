@@ -23,3 +23,10 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository to your local machine
 2. Open the project in Android Studio
 
+## Contributing
+
+If you'd like to contribute to this project, please follow the standard GitHub flow:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and submit a pull request.
